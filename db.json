@@ -1,9 +1,11 @@
 {
-  "items": [
-    {
-      "updated_at": "2022-02-09 23:04:19",
-      "udid": "C07WZ5FNL",
-      "device_status": "installed"
-    }
-  ]
+  "rest": {
+    "items": [
+      {
+        "updated_at": "2022-02-09 23:04:19",
+        "udid": "C07WZ5FNL",
+        "device_status": "installed"
+      }
+    ]
+  }
 }
