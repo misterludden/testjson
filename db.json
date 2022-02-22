@@ -1,5 +1,19 @@
 {
-  "rest": {
+  "add": {
+    "items": [
+      {
+        "salesforce_asset_id": "02i740000001tdwAAA",
+        "updated_at": "2022-02-14T23:04:19.000+0000",
+        "device_status": "added"
+      },
+      {
+        "salesforce_asset_id": "02i740000001tdxAAA",
+        "updated_at": "2022-02-14T23:04:19.000+0000",
+        "device_status": "added"
+      }
+    ]
+  },
+  "remove": {
     "items": [
       {
         "salesforce_asset_id": "02i740000001tdwAAA",
