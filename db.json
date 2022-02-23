@@ -3,12 +3,12 @@
     "items": [
       {
         "salesforce_asset_id": "02i740000001tdwAAA",
-        "updated_at": "2022-02-14T23:04:19.000+0000",
+        "updated_at": "2022-02-23T23:04:19.000+0000",
         "device_status": "added"
       },
       {
         "salesforce_asset_id": "02i740000001tdxAAA",
-        "updated_at": "2022-02-14T23:04:19.000+0000",
+        "updated_at": "2022-02-23T23:04:19.000+0000",
         "device_status": "added"
       }
     ]
@@ -17,13 +17,13 @@
     "items": [
       {
         "salesforce_asset_id": "02i740000001tdwAAA",
-        "updated_at": "2022-02-14T23:04:19.000+0000",
-        "device_status": "added"
+        "updated_at": "2022-02-05T23:04:19.000+0000",
+        "device_status": "removed"
       },
       {
         "salesforce_asset_id": "02i740000001tdxAAA",
-        "updated_at": "2022-02-14T23:04:19.000+0000",
-        "device_status": "added"
+        "updated_at": "2022-02-05T23:04:19.000+0000",
+        "device_status": "removed"
       }
     ]
   }
